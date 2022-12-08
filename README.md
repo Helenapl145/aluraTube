@@ -2,7 +2,7 @@
  
 -Projeto realizado a partir da Imersão Alura focada no desenvlvimento web com o uso de algumas tecnologias, como:
 
--React Native
+-React 
 -Supabase
 -JavaScript
 -CSS
